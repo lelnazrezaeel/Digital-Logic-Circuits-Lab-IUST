@@ -51,5 +51,4 @@ My solutions to IUST's Digital Logic Circuits Laboratory, Spring 2021, Dr. Zahir
 - Code: [Link to Session 11](https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Laboratory-IUST/tree/main/Session11)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/lab-items.png" alt="lab-items"/> Report Structure
-- Description: PDF file outlining the structure and guidelines for lab reports.
-- Code: [Link to Report Structure](https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Laboratory-IUST/blob/main/Digital Logic Lab.pdf)
+PDF file outlining the structure and guidelines for lab reports.
