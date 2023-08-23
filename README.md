@@ -5,7 +5,7 @@ My solutions to IUST's Digital Logic Circuits Laboratory, Spring 2021, Dr. Zahir
 - Description: Materials related to the final exam and its implementation.
 - Code: [Link to Final](https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Laboratory-IUST/tree/main/Final)
 
-<img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Session Homeworks and Activities
+## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Session Homeworks and Activities
 ### Session 1
 - Description: Implementation of session homework or class activities for the first session.
 - Code: [Link to Session 1](https://github.com/lelnazrezaeel/Digital-Logic-Circuits-Laboratory-IUST/tree/main/Session1)
