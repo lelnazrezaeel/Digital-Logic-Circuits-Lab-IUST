@@ -1,5 +1,5 @@
 # Digital-Logic-Circuits-Laboratory-IUST
-My solutions to IUST's Digital Logic Circuits Laboratory, Spring 2021, Dr. Zahirpoor.
+My solutions to IUST's Digital Logic Circuits Laboratory, Spring 2022, Dr. Zahirpoor.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Final
 - Description: Materials related to the final exam and its implementation.
